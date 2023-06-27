@@ -19,7 +19,7 @@
 }
 
 .logo {
-  background-image: url(/amazonClone/images/heading/amazon_logo.png);
+  background-image: url(/amazonClone/amazon_logo.png);
   height: 50px;
   width: 100%;
   background-size: cover;
@@ -110,7 +110,7 @@
 }
 /* ?hero section */
 .hero-section {
-  background-image: url(/amazonClone/images/heading/2-b-3000x1200-hero._CB602235666_.jpg);
+  background-image: url(/amazonClone/2-b-3000x1200-hero._CB602235666_.jpg);
   height: 290px;
   background-size: cover;
   justify-content: center;
