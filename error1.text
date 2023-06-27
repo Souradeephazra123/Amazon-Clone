@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <link rel="stylesheet" href="/amazonClone/styles.css">
+
+</head>
+
+<body>
+    <header>
+        <div class="navbar">
+            <div class="nav-logo border">
+                <div class="logo"></div>
+            </div>
+            <div class="nav-address border">
+                <p class="add-first">Hello</p>
+                <div class="add-icon">
+                    <i class="fa-solid fa-location-dot"></i>
+                    <p class="add-last">Select your address</p>
+                </div>
+            </div>
+            <div class="nav-search ">
+                <select class="search-select">
+                    <option>All</option>
+
+                    <option>All Categories</option>
+                    <option>Alexa Skills</option>
+                    <option>Amazon Devices</option>
+                    <option>Amazon Fashion</option>
+                    <option>Amazon Fresh</option>
+                    <option>Amazon Pharmacy</option>
+                    <option>Appliances</option>
+                    <option>Apps & Games</option>
+                    <option>Baby</option>
+                    <option>Beauty</option>
+                    <option>Books</option>
+                    <option>Car & Motorbike</option>
+                    <option>Clothing & Accessories</option>
+                    <option>Collectibles</option>
+                    <option>Computers & Accessories</option>
+                    <option>Electronics</option>
+                    <option>Furniture</option>
+                    <option>Garden & Outdoors</option>
+                    <option>Gift Cards</option>
+                    <option>Grocery & Gourmet Foods</option>
+
+                </select>
+                <input type="text" placeholder="Search Amazon.in" class="search-input ">
+                <div class="search-icon border">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                </div>
+            </div>
+            <div class="nav-signin border">
+                <p><span class="first-span">Hello,sign in</span></p>
+                <p class="second-span">Accounts & lists</p>
+            </div>
+            <div class="nav-returns border">
+                <p><span class="first-span">Returns</span></p>
+                <p class="second-span">& Orders</p>
+            </div>
+            <div class="nav-cart border">
+                <div class="cart-logo"><i class="fa-solid fa-cart-plus"></i></div>
+                <p class="cart">Cart</p>
+            </div>
+        </div>
+        <div class="panel">
+            <div class="panel-all border">
+                <i class="fa-solid fa-bars"></i>
+                All
+            </div>
+            <div class="panel-ops">
+                <p class="border">Amazon miniTV</p>
+                <p class="border">Sell</p>
+                <p class="border">Best Sellers</p>
+                <p class="border">Mobiles</p>
+                <p class="border">Today's Deals</p>
+                <p class="border">Customer Service</p>
+                <p class="border">New Releases</p>
+                <p class="border">Electronics</p>
+            </div>
+            <div class="panel-deals border">
+                <i class="fa-brands fa-amazon"></i>
+                Shopping made easy | Download the app
+            </div>
+        </div>
+
+    </header>
+    <div class="hero-section">
+        <div class="hero-message">
+            You are on amazon.com .You can also shop on Amazon India for millions of products with fast local delivery.
+            <a href="#">click here to go to amazon.in</a>
+        </div>
+
+    </div>
+
+    <div class="box-section">
+        <div class="box"> 
+            <div class="box-heading">
+                <h3>Upto 60% off|</h3>
+                <h3>professional tools,...</h3>
+            </div>
+            <div class="box-1st-row ">
+                <div class="first-box fixed-box">
+                    <div class="img-container ">
+                        <img src="/amazonClone/images/professional tools.jpg" alt="">
+                    </div>
+                    <div class="img-description">
+                        <span>Professional tools</span>
+                    </div>
+
+                </div>
+                <div class="second-box fixed-box">
+                    <div class="img-container ">
+                        <img src="/amazonClone/images/instrument.jpg" alt="No Image">
+                    </div>
+                    <div class="img-description">
+                        <span>Meausuring instruments</span>
+                    </div>
+
+                </div>
+            </div>
+            <div class="box-2nd-row ">
+                <div class="first-box fixed-box">
+                    <div class="img-container ">
+                        <img src="/amazonClone/images/clean.jpg" alt="no image">
+                    </div>
+                    <div class="img-description">
+                        <span>Cleaning Supplies</span>
+                    </div>
+                </div>
+                <div class="second-box fixed-box">
+                    <div class="first-box fixed-box">
+                        <div class="img-container ">
+                            <img src="/amazonClone/images/medical.jpg" alt="no image">
+                        </div>
+                        <div class="img-description">
+                            <span>Medical Supplies</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a href="#" class="box-end">See more</a>
+        </div>
+        <div class="box>
+            <div class="box-heading">
+            <h3>Upto 60% off|</h3>
+            <h3>professional tools,...</h3>
+            </div>
+        <div class="box-1st-row ">
+            <div class="first-box fixed-box">
+                <div class="img-container ">
+                    <img src="/amazonClone/images/professional tools.jpg" alt="">
+                </div>
+                <div class="img-description">
+                    <span>Professional tools</span>
+                </div>
+
+            </div>
+            <div class="second-box fixed-box">
+                <div class="img-container ">
+                    <img src="/amazonClone/images/instrument.jpg" alt="No Image">
+                </div>
+                <div class="img-description">
+                    <span>Meausuring instruments</span>
+                </div>
+
+            </div>
+        </div>
+        <div class="box-2nd-row ">
+            <div class="first-box fixed-box">
+                <div class="img-container ">
+                    <img src="/amazonClone/images/clean.jpg" alt="no image">
+                </div>
+                <div class="img-description">
+                    <span>Cleaning Supplies</span>
+                </div>
+            </div>
+            <div class="second-box fixed-box">
+                <div class="first-box fixed-box">
+                    <div class="img-container ">
+                        <img src="/amazonClone/images/medical.jpg" alt="no image">
+                    </div>
+                    <div class="img-description">
+                        <span>Medical Supplies</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <a href="#" class="box-end">See more</a>">
+            
+        </div>
+        <div class="box">
+            <<div class="box-heading">
+                <h3>Upto 60% off|</h3>
+                <h3>professional tools,...</h3>
+            </div>
+            <div class="box-1st-row ">
+                <div class="first-box fixed-box">
+                    <div class="img-container ">
+                        <img src="/amazonClone/images/professional tools.jpg" alt="">
+                    </div>
+                    <div class="img-description">
+                        <span>Professional tools</span>
+                    </div>
+
+                </div>
+                <div class="second-box fixed-box">
+                    <div class="img-container ">
+                        <img src="/amazonClone/images/instrument.jpg" alt="No Image">
+                    </div>
+                    <div class="img-description">
+                        <span>Meausuring instruments</span>
+                    </div>
+
+                </div>
+            </div>
+            <div class="box-2nd-row ">
+                <div class="first-box fixed-box">
+                    <div class="img-container ">
+                        <img src="/amazonClone/images/clean.jpg" alt="no image">
+                    </div>
+                    <div class="img-description">
+                        <span>Cleaning Supplies</span>
+                    </div>
+                </div>
+                <div class="second-box fixed-box">
+                    <div class="first-box fixed-box">
+                        <div class="img-container ">
+                            <img src="/amazonClone/images/medical.jpg" alt="no image">
+                        </div>
+                        <div class="img-description">
+                            <span>Medical Supplies</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a href="#" class="box-end">See more</a>
+             
+        </div>
+        <div class="box">
+            <p>dfffsl;d</p>
+        </div>
+    </div>
+</body>
+
+</html>
+
+<!--
+            -->

@@ -1,0 +1,10 @@
+            <div class="box-heading">
+                <h3>Up to 70% off |</h3>
+                <h3>Clearance store</h3>
+            </div>
+            <div class="single-image-box">
+                <div class="img-container ">
+                    <img src="/amazonClone/images/watch.jpg" alt="no image">
+                </div>
+            </div>
+            <a href="#" class="box-end">See more</a>
